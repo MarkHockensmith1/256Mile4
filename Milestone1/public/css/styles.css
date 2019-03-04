@@ -1,0 +1,29 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway);
+
+header  {/*sets settings for the header*/
+  background-color: #BF4CAC;
+  color: #00067E; font-family: Georgia, "Arial", serif;}
+
+body{ /*sets the background fade and body settings*/
+  background-color: BF4CAC; color: #666666;
+  font-family: Georgia, "Arial", serif;
+  background-image: url("");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  }
+
+main{/*sets up the main area of the webpage*/
+  background-color: #BF4CAC;
+  padding-top: 1px; padding-bottom: 1px;
+  padding-left: 20px; padding-right: 20px;
+  display: block;
+}
+nav{
+	display: inline;
+}
+li{
+	display: inline;
+}
+#cssmenu{
+	align: center;
+}
